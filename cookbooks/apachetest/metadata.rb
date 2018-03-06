@@ -1,6 +1,6 @@
 name 'apachetest'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'surya'
+maintainer_email 'suryatejaboorlu@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures apachetest'
 long_description 'Installs/Configures apachetest'
