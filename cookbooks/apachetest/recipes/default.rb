@@ -9,4 +9,9 @@ end
 
 service 'httpd' do
 action [:enable, :start]
-end 
+end
+
+cookbook_file '/var/www/html/index.html' do
+source 'index.html.raw'
+mode 0644
+end
